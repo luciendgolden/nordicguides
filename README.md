@@ -4,7 +4,7 @@
 
 `nordicguides-client`
 
-## PHP Backend
+## Laravel Backend
 
 `nordicguides-server`
 

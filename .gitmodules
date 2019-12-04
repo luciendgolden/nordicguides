@@ -1,8 +1,8 @@
-[submodule "nordicguides-server"]
-	path = nordicguides-server
-	url = git@github.com:luciendgolden/nordicguides-server.git
-	branch = master
 [submodule "nordicguides-client"]
 	path = nordicguides-client
 	url = git@github.com:luciendgolden/nordicguides-client.git
+	branch = master
+[submodule "nordicguides-server"]
+	path = nordicguides-server
+	url = git@github.com:luciendgolden/nordicguides-server.git
 	branch = master
